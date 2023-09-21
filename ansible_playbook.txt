@@ -1,0 +1,7 @@
+echo "# Ansible_playbook_nginx" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/madhubollineni/Ansible_playbook_nginx.git
+git push -u origin main
